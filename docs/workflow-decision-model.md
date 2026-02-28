@@ -40,9 +40,3 @@ The system design philosophy emphasizes:
 - Controlled queue admission logic  
 - Flow continuity monitoring  
 - Process feedback awareness  
-
----
-
-## Analytical Focus
-
-This model prioritizes system behavior understanding rather than operational execution.
